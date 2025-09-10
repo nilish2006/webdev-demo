@@ -1,2 +1,1 @@
-# webdev-demo
-this is a Demo &amp; Github class
+# git-demo-session
